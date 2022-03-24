@@ -534,6 +534,16 @@ background: url('/assets/img/content.jpg') top center / cover no-repeat;
 #footer .copyright a{
     color: rgba(0,0,0,0.4);
 }
-i{
-    
+/* nhap */
+#footer .socials-list a:hover{
+    color: rgba(0,0,0,0.4);
+}
+
+#footer .copyright{
+    margin-top: 15px;
+    color: rgba(0,0,0,0.4);
+}
+
+#footer .copyright a{
+    color: rgba(0,0,0,0.4);
 }
